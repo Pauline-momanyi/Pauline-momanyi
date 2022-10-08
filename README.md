@@ -21,7 +21,7 @@
 <img align="left" alt="Pauline's's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Pauline-momanyi&show_icons=true&theme=algolia"/>
 <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Pauline-momanyi&theme=algolia"/>
 </p>
-<p align="center"><img alt="Pauline's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauline-momanyi&layout=compact&theme=algolia"/></p>
+<p><img alt="Pauline's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauline-momanyi&layout=compact&theme=algolia"/></p>
 
 
 
