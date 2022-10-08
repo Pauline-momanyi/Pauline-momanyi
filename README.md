@@ -2,8 +2,8 @@
 
 - 🔭 I’m a software engineer currently working in quality engineering and governance
 - 🌱 I’m currently learning UI automation using Robot Framework
-<img alt="Pauline's's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Pauline-momanyi&show_icons=true&theme=cobalt"/>
-<img alt="Pauline's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauline-momanyi&layout=compact&theme=dark"/>
+<img alt="Pauline's's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Pauline-momanyi&show_icons=true&theme=algolia"/>
+<img alt="Pauline's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauline-momanyi&layout=compact&theme=algolia"/>
 <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Pauline-momanyi&theme=algolia"/>
 
 
