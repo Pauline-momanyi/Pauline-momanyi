@@ -1,7 +1,6 @@
 ### Hi there 👋. I am Pauline
 
-- 🔭 I’m a software engineer currently working in quality engineering and governance
-- 🌱 I’m currently learning UI automation using Robot Framework
+- 🔭 I’m a software engineer with a bias in Cloud and DevOps
 
 
 ## Tools and Technologies
