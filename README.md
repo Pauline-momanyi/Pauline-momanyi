@@ -1,6 +1,13 @@
-### Hi there 👋. I am Pauline
+### Hi there 👋. I am Pauline Momanyi
 
-- 🔭 I’m a software engineer with a bias in Cloud and DevOps
+- 🔭 I’m a **Data Engineer** passionate about building scalable data pipelines, transforming raw data into actionable insights, and enabling data-driven decisions.
+
+- 🔹 Experienced in **Python, SQL, and ETL workflows**  
+- 🔹 Hands-on with **AWS (S3, Redshift, EMR, Lambda)** and **cloud-native data architectures**  
+- 🔹 Skilled in **data modeling, warehousing, and pipeline automation**  
+- 🔹 Exploring **big data technologies** like Apache Spark, Hadoop, and Airflow  
+
+I enjoy working on projects that turn messy datasets into meaningful dashboards, analytics-ready tables, and clean data lakes. 
 
 
 ## Tools and Technologies
@@ -30,7 +37,6 @@
 
 ### Get in touch:
 - Linkedin : https://www.linkedin.com/in/pauline-momanyi/
-- Twitter : https://twitter.com/Paulinemomanyi
 
 
 <!--
